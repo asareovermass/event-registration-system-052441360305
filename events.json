@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "title": "Kumasi Tech Summit 2026",
+        "description": "The largest technology and innovation conference in the Ashanti Region. Network with 500+ industry leaders, attend workshops, and discover startup opportunities.",
+        "date": "2026-04-10",
+        "location": "Kumasi International Conference Centre",
+        "image": "https:\/\/picsum.photos\/id\/1015\/800\/500",
+        "capacity": 500
+    },
+    {
+        "id": 2,
+        "title": "Ashanti Cultural Festival",
+        "description": "Celebrate our rich heritage with traditional dances, food, fashion shows and live performances from Ghana's top artists.",
+        "date": "2026-03-28",
+        "location": "Manhyia Palace Grounds, Kumasi",
+        "image": "https:\/\/picsum.photos\/id\/201\/800\/500",
+        "capacity": 1200
+    },
+    {
+        "id": 3,
+        "title": "Ghana Startup Bootcamp",
+        "description": "3-day intensive program for young entrepreneurs. Pitch to investors and win up to GH\u00a250,000 in funding.",
+        "date": "2026-05-05",
+        "location": "KNUST Business Incubator, Kumasi",
+        "image": "https:\/\/picsum.photos\/id\/870\/800\/500",
+        "capacity": 80
+    },
+    {
+        "id": 4,
+        "title": "Youth Leadership Summit",
+        "description": "Empowering the next generation of Ghanaian leaders with keynote speeches, panel discussions and mentorship sessions.",
+        "date": "2026-06-12",
+        "location": "Kumasi Central Park",
+        "image": "https:\/\/picsum.photos\/id\/133\/800\/500",
+        "capacity": 350
+    }
+        
+
+]

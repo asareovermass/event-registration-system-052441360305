@@ -1,0 +1,19 @@
+[
+    {
+        "username": "asareovermass",
+        "email": "obidofov0597@gmail.com",
+        "fullname": "Asare Overmass",
+        "password": "$2y$10$YXez7nSao3gZWIlDn1c6huta5Z1d7nWENQTnmwZzvixrIK\/YOT7oS",
+        "profile_pic": "",
+        "registered_events": [],
+        "created_at": "2026-02-27 02:17:13"
+    },
+    {
+        "id": 2,
+        "name": "Asare Overmass",
+        "email": "asareovermass0597@gmail.com",
+        "password": "$2y$10$65g9Rk.A3XGmMcVsZet7EenXf\/dTpNlKgrj2LpJsBvmfooXwcZ0p2",
+        "registered_events": [],
+        "profile_pic": "69a0fecc98b95.jpg"
+    }
+]
